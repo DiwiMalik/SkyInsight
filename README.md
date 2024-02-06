@@ -1,1 +1,24 @@
-Introducing a cutting-edge weather application "SkyInsight" developed with ReactJs, seamlessly integrated with the powerful OpenWeather API. This innovative app empowers users with the ability to effortlessly search for cities and gain instant access to real-time weather updates and detailed five-day forecasts. With a user-friendly interface and sleek design, our application provides a seamless experience, keeping users well-informed about current weather conditions and future forecasts for their desired locations. Stay ahead of the elements and plan your days with precision using our feature-rich weather application.
+Weather App using React JS
+This is a weather application built using React JS and the OpenWeather API. The app allows users to search for a city and view the current weather and a five-day forecast.
+
+Features
+Users can search for a city and view the current weather and a five-day forecast.
+The app displays the temperature, weather conditions, wind speed, and humidity.
+Users can view the weather in both Celsius and Fahrenheit.
+The app uses the OpenWeather API to fetch weather data for the searched location.
+
+Technologies Used
+React JS
+OpenWeather API
+HTML
+CSS
+JavaScript
+
+Installation and Setup Instructions
+Clone the repository to your local machine.
+Install the dependencies using npm install.
+Create a .env file in the root directory of the project and add your OpenWeather API key as REACT_APP_API_KEY.
+Start the app using npm start.
+
+Website view
+Screenshot 2023-03-23 184426.png
